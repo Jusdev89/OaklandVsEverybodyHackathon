@@ -1,5 +1,7 @@
 # The Oakland vs Everybody Hackathon
 
+<img src="http://az616578.vo.msecnd.net/files/2016/08/20/6360726490786979881835130470_oakland%20postcard.jpg">
+
 ### Here's the projects:
 
 1. [Crime Reports](http://data.openoakland.org/dataset/crime-reports): Create an interface that uses the crime report dataset.
