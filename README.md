@@ -24,4 +24,6 @@ OR
 
 OR
 
-#### An awesome project that relates to the theme:
+#### Pick this awesome project that relates to the theme authored by @nicosesma:
+
+[Pot Holes in Oakland](https://github.com/GuildCrafts/web-development-js/issues/54)
